@@ -39,9 +39,10 @@ Then open `problems/strings/14-longest-common-prefix.ipynb`.
 
 ## Notebooks
 
-| Problem | Notebook |
-|---------|----------|
-| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [problems/strings/14-longest-common-prefix.ipynb](problems/strings/14-longest-common-prefix.ipynb) |
+| Problem | Notebook | Solutions |
+|---------|----------|-----------|
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [guide](problems/strings/14-Longest_Common_Prefix/14-longest-common-prefix.ipynb) | — |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [guide](problems/arrays/217-Contains_Duplicate/217-contains-duplicate.ipynb) | [solutions](problems/arrays/217-Contains_Duplicate/217-contains-duplicate-solutions.ipynb) |
 
 ## How to use
 
@@ -50,3 +51,9 @@ Then open `problems/strings/14-longest-common-prefix.ipynb`.
 3. Implement the solution yourself — then run the tests in the notebook.
 
 This repo is for learning, not answer keys. Solve it, then re-solve from scratch after a break.
+
+## Personal notes (`notes.md`)
+
+Each problem folder can have a `notes.md` for your own thinking — before, during, and after the solve. Copy [`notes.example.md`](notes.example.md) into a problem folder and rename it to `notes.md` if one is not there yet.
+
+`notes.md` files are **gitignored** and never pushed to GitHub.
