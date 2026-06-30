@@ -43,6 +43,7 @@ Then open `problems/strings/14-longest-common-prefix.ipynb`.
 |---------|----------|-----------|
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [guide](problems/strings/14-Longest_Common_Prefix/14-longest-common-prefix.ipynb) | — |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [guide](problems/arrays/217-Contains_Duplicate/217-contains-duplicate.ipynb) | [solutions](problems/arrays/217-Contains_Duplicate/217-contains-duplicate-solutions.ipynb) |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [guide](problems/arrays/242-Valid_Anagram/242-valid-anagram.ipynb) | [solutions](problems/arrays/242-Valid_Anagram/242-valid-anagram-solutions.ipynb) |
 
 ## How to use
 
