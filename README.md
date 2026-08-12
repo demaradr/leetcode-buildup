@@ -35,7 +35,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-Then open `problems/strings/14-longest-common-prefix.ipynb`.
+Then open `problems/strings/14-Longest_Common_Prefix/14-longest-common-prefix.ipynb`, or jump straight into drills at [`practice/easy-by-category.ipynb`](practice/easy-by-category.ipynb).
 
 ## Notebooks
 
@@ -48,6 +48,12 @@ Then open `problems/strings/14-longest-common-prefix.ipynb`.
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [guide](problems/arrays/347-Top_K_Frequent_Elements/347-top-k-frequent-elements.ipynb) | [solutions](problems/arrays/347-Top_K_Frequent_Elements/347-top-k-frequent-elements-solutions.ipynb) |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [guide](problems/sliding_window/121-Best_Time_to_Buy_and_Sell_Stock/121-best-time-to-buy-and-sell-stock.ipynb) | [solutions](problems/sliding_window/121-Best_Time_to_Buy_and_Sell_Stock/121-best-time-to-buy-and-sell-stock-solutions.ipynb) |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [guide](problems/two_pointers/125-Valid_Palindrome/125-valid-palindrome.ipynb) | [solutions](problems/two_pointers/125-Valid_Palindrome/125-valid-palindrome-solutions.ipynb) |
+
+## Easy drill (all in one)
+
+Re-solve every Easy problem offline, grouped by category — empty stubs + tests, answer key at the bottom:
+
+- [`practice/easy-by-category.ipynb`](practice/easy-by-category.ipynb)
 
 ## How to use
 
