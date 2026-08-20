@@ -43,6 +43,7 @@ Then open `problems/strings/14-longest-common-prefix.ipynb`.
 |---------|----------|-----------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [guide](problems/arrays/1-Two_Sum/1-two-sum.ipynb) | [solutions](problems/arrays/1-Two_Sum/1-two-sum-solutions.ipynb) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [guide](problems/strings/14-Longest_Common_Prefix/14-longest-common-prefix.ipynb) | — |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [guide](problems/linked-lists/206-Reverse_Linked_List/206-reverse-linked-list.ipynb) | [solutions](problems/linked-lists/206-Reverse_Linked_List/206-reverse-linked-list-solutions.ipynb) |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [guide](problems/arrays/217-Contains_Duplicate/217-contains-duplicate.ipynb) | [solutions](problems/arrays/217-Contains_Duplicate/217-contains-duplicate-solutions.ipynb) |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [guide](problems/arrays/242-Valid_Anagram/242-valid-anagram.ipynb) | [solutions](problems/arrays/242-Valid_Anagram/242-valid-anagram-solutions.ipynb) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [guide](problems/arrays/347-Top_K_Frequent_Elements/347-top-k-frequent-elements.ipynb) | [solutions](problems/arrays/347-Top_K_Frequent_Elements/347-top-k-frequent-elements-solutions.ipynb) |
